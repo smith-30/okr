@@ -23,6 +23,18 @@ Kohei Misu
 
 ---
 
+# 今日のゴール
+
+- OKR がどんなものか知ってもらうこと
+<br>
+- 僕のゴール
+  - OKR やってみるのいいのではとプラスのイメージを持ってもらうこと
+
+<!--
+-->
+
+---
+
 # OKR とは
 
 会社内のあらゆる組織が
@@ -302,41 +314,3 @@ youtube では　一日10億時間の視聴時間を達成するために会社�
 
 ---
 
-# Example
-
-![width:1100px](./img/nested.png)
-
-<!--
--->
-
----
-
-# cppy
-
-<!--
--->
-
----
-
-# cppy
-
-<!--
--->
-
----
-
-# OKR ってなに
-
-Split pages by horizontal ruler (`---`). It's very simple! :satisfied:
-
-```markdown
-# Slide 1
-
-foobar
-
----
-
-# Slide 2
-
-foobar
-```
